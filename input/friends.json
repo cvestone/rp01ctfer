@@ -1,60 +1,68 @@
 {
     "friends": [
         {
-            "name": "ek1ng",
-            "description": "Hidden Gem",
-            "avatar": "https://avatars.hdu-cs.wiki/ek1ng",
-            "url": "https://ek1ng.com/",
-            "rss": "https://ek1ng.com/atom.xml",
-            "direction":"Web"
+            "name": "cvestone",
+            "description": "风之子 pwn大学在读小学生",
+            "avatar": "",
+            "url": "https://www.su-cvestone.cn/",
+            "rss": "https://www.su-cvestone.cn/feed",
+            "direction":"pwn"
         },
         {
-            "name": "曾哥",
-            "description": "弱小和无知不是生存的障碍，傲慢才是！",
-            "avatar": "https://blog.zgsec.cn/favicon.ico",
-            "url": "https://blog.zgsec.cn/",
-            "rss": "https://blog.zgsec.cn/index.php/feed/",
-            "direction":"Web"
+            "name": "antigone",
+            "description": "蒟蒻CTFer CUIT驾校在读 逆向苦手",
+            "avatar": "",
+            "url": "https://antigone4224.github.io/",
+            "rss": "https://antigone4224.github.io/atom.xml",
+            "direction":"pwn"
         },
         {
-            "name": "Y4tacker",
-            "description": "宁静致远，淡泊明志",
-            "avatar": "https://y4tacker.github.io/images/me.jpeg",
-            "url": "https://y4tacker.github.io",
-            "rss": "https://y4tacker.github.io/atom.xml",
-            "direction":"Web"
+            "name": "shark",
+            "description": "鲨鱼辣椒",
+            "avatar": "",
+            "url": "https://www.shark45.cn/",
+            "rss": "https://www.shark45.cn/feed",
+            "direction":"web"
         },
         {
-            "name": "4ra1n",
-            "description": "许少！",
-            "avatar": "https://4ra1n.github.io/img/av.jpg",
-            "url": "https://4ra1n.github.io/",
-            "rss": "",
-            "direction":"Web"
+            "name": "Lobok",
+            "description": "是否有个我们完成了缘分",
+            "avatar": "",
+            "url": "http://dis4.cn/",
+            "rss": "http://dis4.cn/atom.xml",
+            "direction":"web"
         },
         {
-            "name": "crazymanarmy",
-            "description": "A Noob's Learning Record",
-            "avatar": "https://s2.loli.net/2023/01/27/XA2Yr7TuwcNWhOp.jpg",
-            "url": "https://crazymanarmy.github.io/",
-            "rss": "https://crazymanarmy.github.io/atom.xml",
-            "direction":"MISC"
+            "name": "摸鱼的猫",
+            "description": "酷爱摸鱼&正在准备考研的ctfer",
+            "avatar": "",
+            "url": "https://blog.csdn.net/qq_62172019/",
+            "rss": "https://blog.csdn.net/qq_62172019/rss/list",
+            "direction":"pwn"
         },
         {
-            "name": "xia0ji233",
-            "description": "Nepnep team",
-            "avatar": "https://xia0ji233.pro/img/avatar.png",
-            "url": "https://xia0ji233.pro/",
-            "rss": "https://xia0ji233.pro/atom.xml",
-            "direction":"Web"
+            "name": "HeYuMeng",
+            "description": "假装看不见，余光千万遍",
+            "avatar": "",
+            "url": "http://www.heyumeng.online/",
+            "rss": "http://www.heyumeng.online/index.php/feed/",
+            "direction":"web"
         },
         {
-            "name": "Steven Lynn's Blog",
-            "description": "Steven的个人博客",
-            "avatar": "https://blog.stv.lol/favicon.ico",
-            "url": "https://blog.stv.lol",
-            "rss": "https://blog.stv.lol/feed/",
-            "direction":"Other"
+            "name": "q1@N9",
+            "description": "学习笔记、成长小结and比赛wp",
+            "avatar": "",
+            "url": "https://qsheep24.wordpress.com",
+            "rss": "https://qsheep24.wordpress.com/feed/",
+            "direction":"forensic"
+        },
+        {
+            "name": "ba1100n",
+            "description": "ba1100n的学习随笔",
+            "avatar": "",
+            "url": "http://www.ba1100n.tech",
+            "rss": "http://www.ba1100n.tech/index.php/feed/",
+            "direction":"pwn"
         }
     ]
 }
