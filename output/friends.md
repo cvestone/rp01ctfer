@@ -59,13 +59,14 @@ hide:
 -   :octicons-people-24:{ .lg .middle } __师傅们__
 
     ---
-    - [ek1ng｜Hidden Gem](https://ek1ng.com/)
-    - [曾哥｜弱小和无知不是生存的障碍，傲慢才是！](https://blog.zgsec.cn/)
-    - [Y4tacker｜宁静致远，淡泊明志](https://y4tacker.github.io)
-    - [4ra1n｜许少！](https://4ra1n.github.io/)
-    - [crazymanarmy｜A Noob's Learning Record](https://crazymanarmy.github.io/)
-    - [xia0ji233｜Nepnep team](https://xia0ji233.pro/)
-    - [Steven Lynn's Blog｜Steven的个人博客](https://blog.stv.lol)
+    - [cvestone｜风之子 pwn大学在读小学生](https://www.su-cvestone.cn/)
+    - [antigone｜蒟蒻CTFer CUIT驾校在读 逆向苦手](https://antigone4224.github.io/)
+    - [shark｜鲨鱼辣椒](https://www.shark45.cn/)
+    - [Lobok｜是否有个我们完成了缘分](http://dis4.cn/)
+    - [摸鱼的猫｜酷爱摸鱼&正在准备考研的ctfer](https://blog.csdn.net/qq_62172019/)
+    - [HeYuMeng｜假装看不见，余光千万遍](http://www.heyumeng.online/)
+    - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
+    - [ba1100n｜ba1100n的学习随笔](http://www.ba1100n.tech)
 
 </div>
 <div class="grid cards" markdown>
@@ -73,85 +74,85 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
-    ### [LLVM——交叉编译的配置](https://xia0ji233.github.io/2024/03/04/LLVM5/)  
-    >by [xia0ji233](https://xia0ji233.pro/), 2024-03-04
+    ### [3.9本周小结](http://122.112.221.240/index.php/83/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
-    记录一下LLVM交叉编译踩的坑交叉编译关于这个概念其实很简单，生成其它平台上的可执行文件的编译过程就叫交叉编译。环境准备第一步先实现最简单的跨平台交叉编译，我使用Windows版本的LLVM，尝试编译 Linux 平台的 ELF 文件。首先交叉编译要进行一定的环境配置，配置 include path 和库的目录。因为交叉编译需要用到一些 gcc 的库，所以自己编译 glibc 然后复制 inclu...
-    ### [52PoJie论坛2024春节红包-Web解题思路](https://blog.zgsec.cn/archives/577.html)  
-    >by [曾哥](https://blog.zgsec.cn/), 2024-02-19
+    更换科研的方向，实际上跟IOT安全有关系，好消息是不需要搞ai相关的东西了，而且不需要自己瞎搞了摸清楚了新的学期的事情，课程还是挺多的，打了两台靶机以后就去专攻科研了，而且有点奇怪，我的靶机环境有些是不能走通的，折腾了大半天，但别人却可以QwQ，为了保持一定的学习速度就没有细究了IOT安全看了三个漏洞，其实偏web的那些理解起来不难，很快的，就是工具实在难安装。。。我是说firmw...
+    ### [Zyxel硬编码后门(CVE-2020-29583)](http://122.112.221.240/index.php/79/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
-    0# 概述注：本文原创首发自T00ls论坛，文章链接：https://www.t00ls.com/thread-71282-1-1.html最近刷了刷公众号，偶然看到吾爱破解论坛官方公众号发布了这么一篇文章咦，有春节红包领耶，就点进去看了看，原来是52pojie论坛举办的解题领红包活动官方论坛帖子链接：https://www.52pojie.cn/thread-1889163-1-1.html 总...
-    ### [dirty pipe(CVE-2022-0847)漏洞复现](https://xia0ji233.github.io/2024/02/02/CVE-2022-0847/)  
-    >by [xia0ji233](https://xia0ji233.pro/), 2024-02-02
+    漏洞详情Zyxel (CVE-2020-29583) 硬编码后门Username: zyfwpPassword: PrOw!aN_fXp概括Zyxel 发布了针对荷兰 EYE 研究人员最近报告的防火墙和 AP 控制器硬编码凭证漏洞的补丁。建议用户安装适用的固件更新以获得最佳保护。 漏洞是什么？在某些 Zyxel 防火墙和 AP 控制器的“zy...
+    ### [浅谈CGI](http://122.112.221.240/index.php/68/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
-    复现一下 dirty pipe漏洞漏洞简介漏洞发现者 Max Kellermann 并不是专门从事漏洞挖掘工作的，而是在服务器中多次出现了文件错误的问题，用户下载的包含日志的gzip文件多次出现CRC校验位错误, 排查后发现CRC校验位总是被一段ZIP头覆盖。根据作者介绍, 可以生成ZIP文件的只有主服务器的一个负责HTTP连接的服务，但是该服务并没有写 gzip 文件的权限。即主服务器同时存在一...
-    ### [Kernel Pwn环境搭建](https://xia0ji233.github.io/2024/02/01/Linux_Kernel_Pwn1/)  
-    >by [xia0ji233](https://xia0ji233.pro/), 2024-02-01
+    虽说目前的web服务基本上都是基于前后端解耦的各种框架进行开发，之前学head first servlet这本书的时候甚至看到作者当时（十年前）就说CGI技术已经比较落后了但是目前看到有好些物联网设备都是使用CGI技术的，所以可以了解一下，实际上跟servlet有一些相似之处。以网上现成的例子（https://blog.csdn.net/no_pao_spite/article/d...
+    ### [密码保护：攻防艺术](https://www.su-cvestone.cn/260/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
 
-    准备开始搞 kernel pwn 了。环境搭建编译内核首先下载 kernel 源码：https://mirrors.tuna.tsinghua.edu.cn/kernel/需要什么版本就指定什么版本好了。因为我现在想复现 Dirty Cred，所以我下载了 5.8.1 版本的内核，解压之后使用 make menuconfig 可以打开一个配置界面，这里一定要把调试符号勾选，方便我们调试。具体在 k...
-    ### [浅析Jenkis任意文件读取(CVE-2024-23897)](https://y4tacker.github.io/2024/01/27/year/2024/1/%E6%B5%85%E6%9E%90Jenkis%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96-CVE-2024-23897/)  
-    >by [Y4tacker](https://y4tacker.github.io), 2024-01-27
+    无法提供摘要。这是一篇受保护的文章。...
+    ### [D-Link DIR-823G命令注入（CVE-2021-43474）](http://122.112.221.240/index.php/13/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-08
 
-    浅析Jenkis任意文件读取(CVE-2024-23897)很久没更新博客了，还是浅浅更新一下补丁分析首先从官方公告可以看到漏洞其实来源于CLI工具，同时可以看到用户拥有(Overall/Read)权限可以读取整个文件，而如果没有权限则仅能读取第一行同时从commit可以看出[SECURITY-3314] · jenkinsci/jenkins@554f037 ，主要对CLICommand.jav...
-    ### [深圳·香港·澳门一星期单人行小记](https://blog.stv.lol/archives/80/)  
-    >by [Steven Lynn's Blog](https://blog.stv.lol), 2024-01-25
+    前言实际上goahead是个漏洞高发区，学习一下有很多好处只搞到了D-Link DIR-823G v1.02 B03没有搞到D-Link DIR-823G v1.02 B05的固件，不过大差不差漏洞详情固件解包惯例binwalk可以看到有个Squashfs文件系统，漏洞存在于web文件夹内：开放服务情况...
+    ### [Hello world!](http://122.112.221.240/index.php/1/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-08
 
-    前因珠三角一直是我好奇和中意的城市群，尤其是香港。在去年九月的匆忙拜访香港和深圳后仍然意犹未尽，在学校的所有事忙完之后便立刻订机票飞往深圳。深圳抵达买了最便宜的东海航空的航班，并且是深夜的红眼航班。据说这家航司的准点率很差，但好在本次航班的时间都很准时。在机场附近的小酒店休息了一晚上，一早便乘机场线立刻出发地铁站第一件事是前往两个顺路的地铁站盖章打卡，这是一个跨年时的活动，因为章还在客服中心那边所...
-    ### [LLVM——Pass模块的调试](https://xia0ji233.github.io/2024/01/23/LLVM4/)  
-    >by [xia0ji233](https://xia0ji233.pro/), 2024-01-23
+    Welcome to WordPress. This is your first post. Edit or delete it, then start writing!...
+    ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
 
-    记录一下动调dll项目的过程调试DLL的问题正常试过一遍用 clang 作为启动项目或者是用 dll 作为启动项目，但是都不能成功断下来，这里我说一下我所使用的方法。首先在项目属性中开启调试符号项目->属性->配置属性->链接器->调试->生成调试信息选择为生成调试信息（/DEBUG）然后把项目->属性->配置属性->C/C++ ->常规 ->调试信息格式 ，设置为程序数据库（/ZI）打开这两个选...
-    ### [LLVM——简单指令混淆](https://xia0ji233.github.io/2024/01/22/LLVM3/)  
-    >by [xia0ji233](https://xia0ji233.pro/), 2024-01-22
+    xnuca2020-babyV8...
+    ### [*ctf 2019 oob](https://blog.csdn.net/qq_62172019/article/details/136294799)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-26
 
-    通过LLVM简单学习一下指令混淆。注册Pass添加文件以LLVMHello项目为起点，在上面做改动，首先找到 llvm-project/llvm/lib/transforms/hello 文件夹，添加一个头文件和一个 CPP 源文件，并向 Cmakelists 添加 cpp 源文件，重新生成就可以发现源文件出现在了项目中。我们让 Hello.cpp 仅仅注册 pass 即可，要写新的 pass 最...
-    ### [LLVM——LLVMHello](https://xia0ji233.github.io/2024/01/21/LLVM2/)  
-    >by [xia0ji233](https://xia0ji233.pro/), 2024-01-21
+    *ctf 2019 oob...
+    ### [HTB pwn Dragon Army](https://blog.csdn.net/qq_62172019/article/details/136264417)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-23
 
-    学习一下LLVM的hello world。LLVM简介简单编译原理学过编译原理的人都知道（然而我没学过），编译过程主要可以划分为前端与后端：前端（Front End）会把高级语言源代码翻译成中间表示（IR）。后端（Back End）将IR翻译成目标平台的机器码。对于现在大部分编译器来说，中间表示即汇编语言，并且前端与后端之间强耦合，不会给你接口操作 IR。LLVM 提供了 LLVM IR 这样的中...
-    ### [LLVM入门](https://xia0ji233.github.io/2024/01/16/LLVM1/)  
-    >by [xia0ji233](https://xia0ji233.pro/), 2024-01-16
+    HTB pwn Dragon Army...
+    ### [HTB pwn Bad grades&Restaurant](https://blog.csdn.net/qq_62172019/article/details/136181222)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-19
 
-    这个寒假准备学习LLVM，作为奆型C++项目，还是很有学习价值的，且在二进制逆向中经常被使用到，因此非常有学习的必要，这里我准备在 Windows 上编译 LLVM。此时 LLVM 的大版本号在 17。多的概念就不介绍了，因为我自己也还没有完全理解qwq编译首先，作为学习，我们必须要生成一个对自己友好的编译环境，方便自己调试，我们不仅仅是去使用它，而是要去理解+分析，方便我们的二次开发和插件的编写...
-    ### [浅析Gitlab未授权密码重置(CVE-2023-7028)](https://y4tacker.github.io/2024/01/12/year/2024/1/%E6%B5%85%E6%9E%90Gitlab%E6%9C%AA%E6%8E%88%E6%9D%83%E5%AF%86%E7%A0%81%E9%87%8D%E7%BD%AE-CVE-2023-7028/)  
-    >by [Y4tacker](https://y4tacker.github.io), 2024-01-12
+    HTB pwn Bad grades&Restaurant...
+    ### [CTFwebSSRF篇](http://www.heyumeng.online/index.php/181/)  
+    >by [HeYuMeng](http://www.heyumeng.online/), 2024-02-16
 
-    6d1cc102401c745b93e78f65644d42e8acdebe888643ff48d6f7cfdb5192f763857bafd30ff3df8edacec48331a685443e2bfd9b2096789fbde94bf2019e9400ec1373012537fa79b1378fa55fed7d5bbaaee884c63d7e7318c1559a5c176fbdd61c18...
-    ### [如何判断在IDEA中程序正在运行或正在Debug](https://y4tacker.github.io/2024/01/04/year/2024/1/%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E5%9C%A8IDEA%E4%B8%AD%E7%A8%8B%E5%BA%8F%E6%AD%A3%E5%9C%A8%E8%BF%90%E8%A1%8C%E6%88%96%E6%AD%A3%E5%9C%A8Debug/)  
-    >by [Y4tacker](https://y4tacker.github.io), 2024-01-04
+    CTFshow WEB入门SSRF服务端请求伪造web351url=http:/127.0.0.1/flag.phpweb352url=http://127.0.0.2/flag.phpweb353url=http://2130706433/flag.phpurl=http://0x7f.0.0.1/flag.phpurl=http://0/flag.phpurl=htt...
+    ### [CTFwebXSS篇](http://www.heyumeng.online/index.php/176/)  
+    >by [HeYuMeng](http://www.heyumeng.online/), 2024-02-16
 
-    如何判断在IDEA中程序正在运行或正在Debug给大家分享一个有趣又无用的东西，如何判断在IDEA中程序正在运行或正在Debug在这个之前我们首先需要了解一个类ManagementFactory ，它是 Java 标准库中的一个类，它提供了访问运行时系统管理接口的工厂方法。通过 ManagementFactory 类，可以获取包括操作系统、内存、线程、类加载器等在内的多种系统管理信息。一些常用的用...
-    ### [再见2023 | 捡起六便士也不忘心中的月亮](https://www.ek1ng.com/Goodbye2023.html)  
-    >by [ek1ng](https://ek1ng.com/), 2024-01-01
+    CTFshow WEB入门XSS跨站脚本攻击XSS漏洞通常分为三种类型：反射型XSS、存储型XSS、DOM-Based XSSweb316题目如图所示，使用经典语句<script>alert(1)</script>测试成功，在攻击服务器准备一个文件接收cookie，get.php<?php$cookie=$_GET['c'];$myfile=fopen("cookie.txt","w...
+    ### [HTB pwn Evil Corp](https://blog.csdn.net/qq_62172019/article/details/136121775)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-15
 
-    再见2023 | 捡起六便士也不忘心中的月亮写下这篇文章的时候，我刚来到上海入职新公司一周，回看过去一年的竞赛，工作，学习，锻炼等等生活，大体上还是差强人意，但总归有不少值得唏嘘的地方，还得从在北京的生活说起。当时为什么会在北京呢？是去年年末时，有协会学长在群里问有没有学弟想找实习，当时除了CTF以外的经验几乎为零，也从来没有考虑过业界的安全岗都在做什么，我自己想做什么，于是在学长的内推和两轮面试...
-    ### [感谢，渊龙三周年与龙年展望](https://blog.zgsec.cn/archives/573.html)  
-    >by [曾哥](https://blog.zgsec.cn/), 2024-01-01
+    HTB pwn Evil Corp...
+    ### [HTB gamepwn LightningFast](https://blog.csdn.net/qq_62172019/article/details/136114870)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-14
 
-    1# 概述今天是2024年的第一天，很高兴能再次和大家见面，我是渊龙Sec安全团队的创始人——曾哥 @AabyssZG。首先，在这个日子里面祝各位师傅元旦快乐，在新的一年里面：事业如虎添翼，财运如虹贯日，家庭和谐美满，幸福安康常伴！也很感谢各位师傅，平时给予团队和我的关注和支持~同时，也非常感谢各位团队成员的共同建设和鼎力相助，团队正因为有了你们，才能走到今天！2# 关于渊龙三周年今年是渊龙Sec...
-    ### [2024的目标](https://xia0ji233.github.io/2023/12/31/Summary2023/)  
-    >by [xia0ji233](https://xia0ji233.pro/), 2023-12-30
+    HTB game LightningFast...
+    ### [HTB gamepwn CubeMadness1&CubeMadness2](https://blog.csdn.net/qq_62172019/article/details/136107916)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
 
-    2023年也快过去了，至此，大学生涯算是快结束了。2023总结2023 01-14经过了很久的申诉，ICPC2023 侥幸拿铜（check）02-01CSAPP看完03-29XCTF FINALS 二等（真的很感谢队里师傅的认可，能让我去参加）04-15ZJCPC 又双叒叕打铁了，哭了04-25自顶向下计算机网络看完05-20CISCN 直接没去（因为一些意外）11-13ZJCTF 二等（单挑省一...
-    ### [又又又是一个属性覆盖带来的漏洞](https://y4tacker.github.io/2023/12/28/year/2023/12/%E5%8F%88%E5%8F%88%E5%8F%88%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B1%9E%E6%80%A7%E8%A6%86%E7%9B%96%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%BC%8F%E6%B4%9E/)  
-    >by [Y4tacker](https://y4tacker.github.io), 2023-12-28
+    HTB gamepwn CubeMadness1&CubeMadness2...
+    ### [house of cat](https://blog.csdn.net/qq_62172019/article/details/136090514)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-10
 
-    又又又是一个属性覆盖带来的漏洞想到最近出了好几个与属性覆盖有关的漏洞，突然想到有一个国产系统也曾经出过这类问题，比较有趣这里简单分享一下，希望把一些东西串起来分享方便学到一些东西前后端框架信息梳理首先简单从官网可以看出所使用的框架信息以及技术选型https://gitee.com/mingSoft/MCMS?_from=gitee_search我们主要关注几个点一个是shiro，一个是freema...
-    ### [Apache OFBiz未授权命令执行浅析(CVE-2023-51467)](https://y4tacker.github.io/2023/12/27/year/2023/12/Apache-OFBiz%E6%9C%AA%E6%8E%88%E6%9D%83%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%B5%85%E6%9E%90-CVE-2023-51467/)  
-    >by [Y4tacker](https://y4tacker.github.io), 2023-12-27
+    其中rax, qword ptr [rdi + 0xa0] rax会被赋值为wide_data结构体的地址(rdi是我们伪造的io结构体地址)mov    rax, qword ptr [rax + 0xe0] rax被赋值为指向wide_data结构体+0xe0的地址。在_IO_switch_to_wget_mode 函数可以进行一次任意执行。最后可以进入_IO_switch_to_wget_m...
+    ### [l3hctf2024 pwn treasure_hunter](https://blog.csdn.net/qq_62172019/article/details/136064207)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-06
 
-    Apache OFBiz未授权命令执行浅析(CVE-2023-51467)未修复的权限绕过还是之前那个遗留的问题，首先是权限绕过，首先还是做一个简单的回顾关于登录的校验在org.apache.ofbiz.webapp.control.LoginWorker#checkLogin做处理来判断用户是否登录，可以看到这里的判断逻辑非常简单，跳过前两个判断，在后面只需要login返回的不是error，则为...
-    ### [Apusic权限绕过浅析](https://y4tacker.github.io/2023/12/26/year/2023/12/Apusic%E6%9D%83%E9%99%90%E7%BB%95%E8%BF%87%E6%B5%85%E6%9E%90/)  
-    >by [Y4tacker](https://y4tacker.github.io), 2023-12-26
+    可以看到上面的大块可以覆盖到0x20小块的数据区,正好这个小块存放着hashmap的pairs指针我们只需要覆盖其低地址并且在可控制的块伪造pairs和修改一些关键字符(dream操作)就可以完成伪造,伪造之后就可以实现将任意的key放在hashmap中从而实现任意读任意写。我刚才提到了" 修改关键字符 ",如上图在hashmap每插入一对pair的时候都会产生一个字符用于标识key,所以我们只需...
+    ### [dicectf2024 pwn](https://blog.csdn.net/qq_62172019/article/details/136030402)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-04
 
-    Apusic权限绕过浅析真的是浅析前几天去参加补天了，一直想写但是一直抽不出时间学习，由于漏洞比较简单这里也不过多篇幅的讲解，仅分享一些关键的点，在这里关于权限校验Apusic没有使用第三方框架(毕竟是迫真信创产品)而是使用了自定义实现的安全性约束(关于什么安全性约束百度搜很多文章了不作搬运工)去实现了访问控制1234567891011<security-constraint>    <displ...
-    ### [Hacking FernFlower](https://y4tacker.github.io/2023/12/22/year/2023/12/Hacking-FernFlower/)  
-    >by [Y4tacker](https://y4tacker.github.io), 2023-12-22
+    strtok函数在分割字符串的时候会将delim置为\x00这将导致前面的字符串在分割的时候把后面的堆块size某些字节置为\x00,因此可以利用这个漏洞打off by null。打完off by null向前合并之后就简单了直接控制tache块申请到free_hook直接改写就行。主办方虽然没有给libc但是给了题目所使用的dockerfile。本题使用的是Ubuntu18。查看函数,此处调用了...
+    ### [pwn-college kernel l1](https://blog.csdn.net/qq_62172019/article/details/135920197)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-29
 
-    Hacking FernFlower前言​    今天很开心，第一次作为speaker参与了议题的分享，也很感谢补天白帽大会给了我这样的一次机会​    其实本该在去年来讲Java混淆的议题，不过当时赶上疫情爆发，学校出于安全的考虑没让出省。在当时我更想分享的是对抗所有反混淆的工具cfr、procyon，但今年在准备过程中发现主题太大了其实不太好讲，再考虑到受众都是做web安全的，因此我最终还是将...
-    ### [Airpods Pro 2上手体验](https://blog.stv.lol/archives/79/)  
-    >by [Steven Lynn's Blog](https://blog.stv.lol), 2023-12-16
+    模块在初始化的时候就已经将flag读出来了所以本题并不需要提权。read函数从用户空间读入一串字符作为password进行比较。write函数下,如果read函数比较正确就返回flag。...
+    ### [THM](https://www.su-cvestone.cn/153/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-26
 
-    Airpods Pro 2 大概算是我今年买的最后一个产品了，也是我馋了很久却一直没买的产品在此之前，我的主力耳机是 Airpods Pro 一代，考虑到一代已经用了将近三年时间，也是时候换一个了没考虑其他耳机的原因主要还是因为我的主要使用的生态产品还是苹果生态为主，Airpods的无缝连接在各设备之间互相流转很方便于是在tb的双十二活动中以1500出头的价格拿下（耳机本体+一年以换代修）开箱包装...
+    The Cod Caper 介绍 Hello there my name is Pingu. I've come here to  ......
 
 </div>
