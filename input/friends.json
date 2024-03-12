@@ -63,6 +63,14 @@
             "url": "http://www.ba1100n.tech",
             "rss": "http://www.ba1100n.tech/index.php/feed/",
             "direction":"pwn"
+        },
+        {
+            "name": "Lobok",
+            "description": "萝卜的部落格",
+            "avatar": "",
+            "url": "https://dis4.cn",
+            "rss": "https://dis4.cn/feed.xml",
+            "direction":"web"
         }
     ]
 }
