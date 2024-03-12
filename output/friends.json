@@ -63,6 +63,14 @@
             "url": "http://www.ba1100n.tech",
             "rss": "http://www.ba1100n.tech/index.php/feed/",
             "direction": "pwn"
+        },
+        {
+            "name": "Lobok",
+            "description": "萝卜的部落格",
+            "avatar": "",
+            "url": "https://dis4.cn",
+            "rss": "https://dis4.cn/feed.xml",
+            "direction": "web"
         }
     ],
     "posts": [
@@ -202,6 +210,15 @@
             "Direction": ""
         },
         {
+            "Title": "Ugra CTF Quals 2024复盘",
+            "Author": "Lobok",
+            "Date": "2024-02-13",
+            "Content": "这次Web属于有思路，但是最后不知道怎么做的，复盘了下还是学到东西了WebWicket gate:::info{title=\"URL\"}https://wicketgate.q.2024.ugractf.ru/j62t0oc2vyvm6k0j:::首先打开有三个页面（首页/登录/目录)目录页面没登录状态下是访问不了的，所以只",
+            "PostURL": "http://dis4.cn/post/1",
+            "AuthorURL": "https://dis4.cn",
+            "Direction": ""
+        },
+        {
             "Title": "house of cat",
             "Author": "摸鱼的猫",
             "Date": "2024-02-10",
@@ -235,15 +252,6 @@
             "Content": "模块在初始化的时候就已经将flag读出来了所以本题并不需要提权。read函数从用户空间读入一串字符作为password进行比较。write函数下,如果read函数比较正确就返回flag。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/135920197",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "THM",
-            "Author": "cvestone",
-            "Date": "2024-01-26",
-            "Content": "The Cod Caper 介绍 Hello there my name is Pingu. I've come here to  ...",
-            "PostURL": "https://www.su-cvestone.cn/153/",
-            "AuthorURL": "https://www.su-cvestone.cn/",
             "Direction": ""
         }
     ]
