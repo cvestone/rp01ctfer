@@ -75,6 +75,15 @@
     ],
     "posts": [
         {
+            "Title": "IpTIME C200 BackdoorRCE(CVE-2021-26614)",
+            "Author": "ba1100n",
+            "Date": "2024-03-14",
+            "Content": "漏洞简介CVE-2021-26614 ipTIME C200摄像头存在后门，可以造成rce，当时还是属于1day状态poc：跟随https://www.iotsec-zone.com/article/135的思路进行1day的分析看看补丁比对分析比对漏洞补丁c200_1_058.bin与c200_1_060.bin各自的iux_get.cgi，",
+            "PostURL": "http://122.112.221.240/index.php/207/",
+            "AuthorURL": "http://www.ba1100n.tech",
+            "Direction": ""
+        },
+        {
             "Title": "Netgear DGN1000 RCE",
             "Author": "ba1100n",
             "Date": "2024-03-13",
@@ -243,15 +252,6 @@
             "Content": "HTB gamepwn CubeMadness1\u0026CubeMadness2",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136107916",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "Ugra CTF Quals 2024复盘",
-            "Author": "Lobok",
-            "Date": "2024-02-13",
-            "Content": "这次Web属于有思路，但是最后不知道怎么做的，复盘了下还是学到东西了WebWicket gate:::info{title=\"URL\"}https://wicketgate.q.2024.ugractf.ru/j62t0oc2vyvm6k0j:::首先打开有三个页面（首页/登录/目录)目录页面没登录状态下是访问不了的，所以只",
-            "PostURL": "http://dis4.cn/post/1",
-            "AuthorURL": "https://dis4.cn",
             "Direction": ""
         }
     ]
