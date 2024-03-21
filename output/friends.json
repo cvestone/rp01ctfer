@@ -75,6 +75,15 @@
     ],
     "posts": [
         {
+            "Title": "LD_PRELOAD与linux木马的一种隐匿方法",
+            "Author": "ba1100n",
+            "Date": "2024-03-20",
+            "Content": "LD_PRELOADLinux ELF 共享库加载顺序LD_PRELOAD -\u003e /etc/ld.so.preload -\u003e DT_RPATH(编译指定) -\u003e LD_LIBRARY_PATH -\u003e [/etc/ld.so.conf] -\u003e /lib -\u003e /usr/lib什么是LD_PRELOAD(Load Preload，加载的预加载)正常情况下",
+            "PostURL": "http://ba1100n.tech/index.php/257/",
+            "AuthorURL": "http://www.ba1100n.tech",
+            "Direction": ""
+        },
+        {
             "Title": "3.17 本周小结",
             "Author": "ba1100n",
             "Date": "2024-03-17",
@@ -242,15 +251,6 @@
             "Date": "2024-02-14",
             "Content": "HTB game LightningFast",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136114870",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "HTB gamepwn CubeMadness1\u0026CubeMadness2",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-13",
-            "Content": "HTB gamepwn CubeMadness1\u0026CubeMadness2",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136107916",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
