@@ -183,42 +183,6 @@
             "Direction": ""
         },
         {
-            "Title": "xnuca2020-babyV8",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-27",
-            "Content": "xnuca2020-babyV8",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136332456",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "*ctf 2019 oob",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-26",
-            "Content": "*ctf 2019 oob",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136294799",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "HTB pwn Dragon Army",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-23",
-            "Content": "HTB pwn Dragon Army",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136264417",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "HTB pwn Bad grades\u0026Restaurant",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-19",
-            "Content": "HTB pwn Bad grades\u0026Restaurant",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136181222",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
             "Title": "CTFwebSSRF篇",
             "Author": "HeYuMeng",
             "Date": "2024-02-16",
@@ -237,21 +201,57 @@
             "Direction": ""
         },
         {
-            "Title": "HTB pwn Evil Corp",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-15",
-            "Content": "HTB pwn Evil Corp",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136121775",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Title": "THM",
+            "Author": "cvestone",
+            "Date": "2024-01-26",
+            "Content": "Snort Challenge - The Basics Task 3:Writing IDS Rules (FTP) 问题：使用 ...",
+            "PostURL": "https://www.su-cvestone.cn/153/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
             "Direction": ""
         },
         {
-            "Title": "HTB gamepwn LightningFast",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-14",
-            "Content": "HTB game LightningFast",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136114870",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Title": "231216WargamesMY CTF",
+            "Author": "cvestone",
+            "Date": "2024-01-19",
+            "Content": "pwn Magic Door 考察点： （1）查看程序保护 开了nx保护，利用shellcode困难，且是amd64 （2）查看程 ...",
+            "PostURL": "https://www.su-cvestone.cn/144/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
+            "Title": "hexo+githubpage搭建并添加博客RSS",
+            "Author": "cvestone",
+            "Date": "2024-01-17",
+            "Content": "非原创，由各个博客综合提取，主要为了查找方便，感谢这些bloggers提供的珍贵参考材料 安装必要环境 node 下载对应操作系统 ...",
+            "PostURL": "https://www.su-cvestone.cn/135/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
+            "Title": "wordpress报道篇",
+            "Author": "q1@N9",
+            "Date": "2024-01-17",
+            "Content": "cppu在读本科小白，，hello world以后也会坚持完善个人blog",
+            "PostURL": "https://qsheep24.wordpress.com/2024/01/17/wordpress%e6%8a%a5%e9%81%93%e7%af%87/",
+            "AuthorURL": "https://qsheep24.wordpress.com",
+            "Direction": ""
+        },
+        {
+            "Title": "CTFweb如何爆破呢",
+            "Author": "HeYuMeng",
+            "Date": "2024-01-16",
+            "Content": "CTFshow WEB入门爆破web21这里第一题，我们看到需要输入账号密码登录，打开burp抓个包看看，输入账号密码后，在抓包历史中我找到了验证包，看到了什么，看到了==，应该是base64编码，去md5在线查了可以猜出来账号密码中间用分号隔开，然后利用bp，自定义迭代，载入字典，开始跑就行了正确的编码显而易见，把最后一串编码解密就得到了账号密码，然后回去输入账号密码就可以看到flag了，",
+            "PostURL": "http://www.heyumeng.online/index.php/157/",
+            "AuthorURL": "http://www.heyumeng.online/",
+            "Direction": ""
+        },
+        {
+            "Title": "HTB_machines",
+            "Author": "cvestone",
+            "Date": "2024-01-15",
+            "Content": "PivotAPI “红队笔记”学习记录 机器介绍 Pivotapi is an insane machine that invol ...",
+            "PostURL": "https://www.su-cvestone.cn/128/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
             "Direction": ""
         }
     ]
