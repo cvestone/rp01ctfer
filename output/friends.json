@@ -75,96 +75,6 @@
     ],
     "posts": [
         {
-            "Title": "恢复D-Link DIR-605L(FW_113)固件运行环境的详细踩坑过程",
-            "Author": "ba1100n",
-            "Date": "2024-04-10",
-            "Content": "前言感觉iot这块最麻烦的还是仿真和动态调试，因为硬件的缺失，固件的执行过程中总是会缺失部分内容，从而使得仿真、调试失败这段时间研究的几个内存漏洞，普遍都有以下问题qemu的仿真很难跑起来，经常因为网上搜索不到、自己不会找的原因而无法运行成功，过往的文章有些不需要内存层面的调试的，直接启动fat仿真起来就好，因为本身不需要怎么分析都能从代码逻辑上看明白为什么。但分析内存破",
-            "PostURL": "http://ba1100n.tech/index.php/335/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "4.7本周小结",
-            "Author": "ba1100n",
-            "Date": "2024-04-07",
-            "Content": "继续刚仿真环境修复。周一周二感觉有点混乱不知道怎么办好，尝试安装qiling框架，结果发现坑是真的多，比如IDA\u003e=7.5的话，必须安装1.4.5的qiling而不是pip默认最新的1.4.6，以及qilingIDA插件的一些代码问题需要被手动修复。而且qiling的continue似乎有些小问题，下断点也会被无视掉，最好excute till。但是好在最后还是学会如何使用IDA的qiling插件",
-            "PostURL": "http://ba1100n.tech/index.php/331/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "3.31本周小结",
-            "Author": "ba1100n",
-            "Date": "2024-03-31",
-            "Content": "这周前两天半其实一直在干活，在思考某件东西怎么改进优化，导致没有怎么复现漏洞什么的，周三下午上课的时候很认真地看完了一个内存漏洞的前因后果，然后后面逆向了主要的数据的流程，但发现目前自己还是在动态调试上太生疏了QwQ，后面回家了一下，所以这两天又没有学习。实际上最近确实研究了两个mips内存破坏方面的漏洞，但都没有来的及彻底搞清楚,虽然确实梳理出来了漏洞点前后的相关功能，也因为曾经的学习能",
-            "PostURL": "http://ba1100n.tech/index.php/325/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "3.24本周小结",
-            "Author": "ba1100n",
-            "Date": "2024-03-24",
-            "Content": "这周其实很低效率，很想很想复现点不一样的东西，结果就是，周一周二课比较多，而且都是不能偷学东西的课，但晚上没有珍惜时间，周一晚上玩RON刷S去了，（这游戏通关简单，但刷S是真的折磨）周二吃完饭甚至忍不住在宿舍玩了两小时才去工位（这byd游戏刷S是真的折磨）。。。那天晚上学习了MIPS的堆栈、寄存器之类的东西，为复现MIPS上的漏洞做准备，以及因为要配iot仿真环境，所以学习了一波LD_PR",
-            "PostURL": "http://ba1100n.tech/index.php/315/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "工控协议漏挖入门之初尝boofuzz与电线鲨鱼抓包分析Modbus",
-            "Author": "ba1100n",
-            "Date": "2024-03-21",
-            "Content": "0x00 前言并非有意开新坑的，但是其实昨天上课学到了一下下，然后四节课里面塞了那么多东西感觉云里雾里的，所以想趁着还没忘记赶紧总结一下，以供日后不时之需，其实学习到的这方面的东西尚且非常浅薄。。。还请海涵而且听说工控的溢出漏洞其实很难转化成RCE，因为缺少很多库函数，但是，也恰恰是因为这是工控，如果存在远程的dos漏洞，就足以形成损失了，所以还请不要在fofa乱测试，如果真的伤及",
-            "PostURL": "http://ba1100n.tech/index.php/267/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "LD_PRELOAD与linux木马的一种隐匿方法",
-            "Author": "ba1100n",
-            "Date": "2024-03-20",
-            "Content": "LD_PRELOADLinux ELF 共享库加载顺序LD_PRELOAD -\u003e /etc/ld.so.preload -\u003e DT_RPATH(编译指定) -\u003e LD_LIBRARY_PATH -\u003e [/etc/ld.so.conf] -\u003e /lib -\u003e /usr/lib什么是LD_PRELOAD(Load Preload，加载的预加载)正常情况下",
-            "PostURL": "http://ba1100n.tech/index.php/257/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "3.17 本周小结",
-            "Author": "ba1100n",
-            "Date": "2024-03-17",
-            "Content": "这样公布学习进展的方式对我来说是某一种监督，接受透明的监督让我觉得后背发凉，但同时也让我反思了不少上周进展的问题这周算是对漏洞复现开了个头，但其实以老师的任务为重，然后把工位的电脑什么的搞好了，感觉在那边学习其实可以学得很快，椅子和空气都舒服多了而且周日到周四上午的进展还是比较快的，课堂上见缝插针地去学习老师、自己的东西，然后课下完成老师的任务以后开始自己的学习，那几天晚上还搞到很",
-            "PostURL": "http://ba1100n.tech/index.php/222/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "IpTIME C200 BackdoorRCE(CVE-2021-26614)",
-            "Author": "ba1100n",
-            "Date": "2024-03-14",
-            "Content": "漏洞简介CVE-2021-26614 ipTIME C200摄像头存在后门，可以造成rce，当时还是属于1day状态poc：跟随https://www.iotsec-zone.com/article/135的思路进行1day的分析看看补丁比对分析比对漏洞补丁c200_1_058.bin与c200_1_060.bin各自的iux_get.cgi，",
-            "PostURL": "http://ba1100n.tech/index.php/207/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "Netgear DGN1000 RCE",
-            "Author": "ba1100n",
-            "Date": "2024-03-13",
-            "Content": "前言声明：技术讨论仅限合法用途，不要用于从事相关违法行为，否则行为后果与本人无关实际上这里需要两枚漏洞才能达成rce效果，一枚是带有鉴权的rce，另一枚则是绕过鉴权而且这还是mirai变种比较青睐的一个漏洞漏洞详情带鉴权RCEpoc注意仅仅在英语的页面有这个syscmd.htmhttp://114.51.41.91/syscm",
-            "PostURL": "http://ba1100n.tech/index.php/136/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique",
-            "Author": "ba1100n",
-            "Date": "2024-03-13",
-            "Content": "虽然研究方向目前不是这个，但上个学期因为课程缘故，精读完这篇顶会论文以后，不禁赞叹，韩国那边的作者团队真的太细致了，对这一时序侧信道问题进行了如此精细的思考和测试，还提出了缓解方案，甚至基于未来应用该方案的考量，对其进行了性能测试。无论是不是做相关领域的事情，都要有这种探究精神👍很棒很棒但在反复思考的过程中，发现了缓解方案仍然可以被绕过💀，当时放在课程报告里面了，刚刚想起来，感觉还是搬出来",
-            "PostURL": "http://ba1100n.tech/index.php/110/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
             "Title": "密码保护：混音课程笔记",
             "Author": "cvestone",
             "Date": "2024-03-12",
@@ -252,6 +162,96 @@
             "Content": "PivotAPI “红队笔记”学习记录 机器介绍 Pivotapi is an insane machine that invol ...",
             "PostURL": "https://www.su-cvestone.cn/128/",
             "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
+            "Title": "offsec PG lab",
+            "Author": "cvestone",
+            "Date": "2024-01-14",
+            "Content": "简单 PlanetExpress 端口扫描 可知目标web服务用了Pico CMS系统，优先看web服务 暂时没找到可利用点，尝试 ...",
+            "PostURL": "https://www.su-cvestone.cn/125/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
+            "Title": "安全开发实验室",
+            "Author": "cvestone",
+            "Date": "2024-01-05",
+            "Content": "每天一安全开发，脚本小子远离我~ 本实验室专门分析一些安全工具的代码，知其然知其所以然，持续更新...",
+            "PostURL": "https://www.su-cvestone.cn/88/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
+            "Title": "计算机等级备考心得",
+            "Author": "HeYuMeng",
+            "Date": "2024-01-03",
+            "Content": "自动化专业计算机二级WPS已过，计算机三级网络技术已过，计算机四级网络工程师已过。同学L：计算机在日常生活中无处不在，涉及各个方面的领域，在学习计算机二级后可以学到很多技能知识应用到各个方面，解决很多问题，在备考时我经常在b站搜索教程便于我更好的理解和掌握他的使用方法，我考的是二级wps office，当然他可供九种选择，wps是我认为简单且实用的其中之一，做题过程中首先要仔细阅读弄清基本",
+            "PostURL": "http://www.heyumeng.online/index.php/80/",
+            "AuthorURL": "http://www.heyumeng.online/",
+            "Direction": ""
+        },
+        {
+            "Title": "HTB_ctf",
+            "Author": "cvestone",
+            "Date": "2024-01-01",
+            "Content": "Hardware Debugging Interface 考察点 SALEAE Logic分析器的异步串行解码操作 描述 We a ...",
+            "PostURL": "https://www.su-cvestone.cn/76/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
+            "Title": "Pingctf2023 Dangleme 复现",
+            "Author": "antigone",
+            "Date": "2023-12-29",
+            "Content": "复现:Pingctf 2023 dangleme环境搭建用官方wp在本地发现打不通，只能试着去复现官方题目的环境，下载文件查看dockerfile后发现，他们使用了redpwnjail搭建题目环境,FAQ里有如何更改dockerfile辅助调试的方法,其实也就是撤销将环境迁移进jail的过程，然后再安装一些调试所需要的工具，python3环境，gdb，pwntools，pwndbg这些",
+            "PostURL": "https://antigone4224.github.io/PingCTF2023-dangleme-%E5%A4%8D%E7%8E%B0",
+            "AuthorURL": "https://antigone4224.github.io/",
+            "Direction": ""
+        },
+        {
+            "Title": "ctfshow",
+            "Author": "cvestone",
+            "Date": "2023-12-27",
+            "Content": "菜狗杯 misc 损坏的压缩包 考察点：文件不符改后缀 先丢到binwalk分析，发现是由png和zlib文件组成的，再丢到win ...",
+            "PostURL": "https://www.su-cvestone.cn/30/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
+            "Title": "CTFweb信息搜集篇",
+            "Author": "HeYuMeng",
+            "Date": "2023-12-13",
+            "Content": "在CTFshow平台刷了web入门的信息搜集篇的题目，对这篇内容做个总结。查看网页源代码鼠标右击会看到”查看源代码可以使用快捷Ctrl+U来查看源码Q在地址栏前面加上view-source，如view-source: https://www.baidu.com;浏览器的设置菜单框中，找到“更多工具”，然后再找开发者工具，也可以查看网页源代码通过bu",
+            "PostURL": "http://www.heyumeng.online/index.php/7/",
+            "AuthorURL": "http://www.heyumeng.online/",
+            "Direction": ""
+        },
+        {
+            "Title": "你好！",
+            "Author": "HeYuMeng",
+            "Date": "2023-12-13",
+            "Content": "欢迎来到我的博客！",
+            "PostURL": "http://www.heyumeng.online/index.php/1/",
+            "AuthorURL": "http://www.heyumeng.online/",
+            "Direction": ""
+        },
+        {
+            "Title": "Yet Another Sample Page",
+            "Author": "antigone",
+            "Date": "2018-01-06",
+            "Content": "Text can be bold, italic, strikethrough or keyword.Link to another page.There should be whitespace between paragraphs.There should be whitespace between paragraphs. We recommend including a READ",
+            "PostURL": "https://antigone4224.github.io/Yet-Another-Sample-Page",
+            "AuthorURL": "https://antigone4224.github.io/",
+            "Direction": ""
+        },
+        {
+            "Title": "Sample Page",
+            "Author": "antigone",
+            "Date": "2017-12-12",
+            "Content": "Text can be bold, italic, strikethrough or keyword.Link to another page.There should be whitespace between paragraphs.There should be whitespace between paragraphs. We recommend including a READ",
+            "PostURL": "https://antigone4224.github.io/Sample-Page",
+            "AuthorURL": "https://antigone4224.github.io/",
             "Direction": ""
         }
     ]
