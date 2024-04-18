@@ -61,7 +61,7 @@
             "description": "ba1100n的学习随笔",
             "avatar": "",
             "url": "http://www.ba1100n.tech",
-            "rss": "http://www.ba1100n.tech/index.php/feed/",
+            "rss": "http://www.ba1100n.tech/?feed=rss2",
             "direction":"pwn"
         },
         {
