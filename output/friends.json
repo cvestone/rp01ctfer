@@ -93,6 +93,15 @@
             "Direction": ""
         },
         {
+            "Title": "hvv面试题总结归纳",
+            "Author": "cvestone",
+            "Date": "2024-05-23",
+            "Content": "蓝队 Top10漏洞篇 owasp top10(最新2021版)有哪些？ 官方报告 Broken Access Control 破 ...",
+            "PostURL": "https://www.su-cvestone.cn/412/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
             "Title": "5.19本周小结",
             "Author": "ba1100n",
             "Date": "2024-05-19",
@@ -165,6 +174,24 @@
             "Direction": ""
         },
         {
+            "Title": "密码保护：混音课程笔记",
+            "Author": "cvestone",
+            "Date": "2024-03-12",
+            "Content": "无法提供摘要。这是一篇受保护的文章。",
+            "PostURL": "https://www.su-cvestone.cn/308/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
+            "Title": "密码保护：攻防艺术",
+            "Author": "cvestone",
+            "Date": "2024-03-08",
+            "Content": "无法提供摘要。这是一篇受保护的文章。",
+            "PostURL": "https://www.su-cvestone.cn/260/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
             "Title": "xnuca2020-babyV8",
             "Author": "摸鱼的猫",
             "Date": "2024-02-27",
@@ -224,33 +251,6 @@
             "Date": "2024-02-13",
             "Content": "HTB gamepwn CubeMadness1\u0026CubeMadness2",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136107916",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "house of cat",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-10",
-            "Content": "其中rax, qword ptr [rdi + 0xa0] rax会被赋值为wide_data结构体的地址(rdi是我们伪造的io结构体地址)mov    rax, qword ptr [rax + 0xe0] rax被赋值为指向wide_data结构体+0xe0的地址。在_IO_switch_to_wget_mode 函数可以进行一次任意执行。最后可以进入_IO_switch_to_wget_m",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136090514",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "l3hctf2024 pwn treasure_hunter",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-06",
-            "Content": "可以看到上面的大块可以覆盖到0x20小块的数据区,正好这个小块存放着hashmap的pairs指针我们只需要覆盖其低地址并且在可控制的块伪造pairs和修改一些关键字符(dream操作)就可以完成伪造,伪造之后就可以实现将任意的key放在hashmap中从而实现任意读任意写。我刚才提到了\" 修改关键字符 \",如上图在hashmap每插入一对pair的时候都会产生一个字符用于标识key,所以我们只需",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136064207",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "dicectf2024 pwn",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-04",
-            "Content": "strtok函数在分割字符串的时候会将delim置为\\x00这将导致前面的字符串在分割的时候把后面的堆块size某些字节置为\\x00,因此可以利用这个漏洞打off by null。打完off by null向前合并之后就简单了直接控制tache块申请到free_hook直接改写就行。主办方虽然没有给libc但是给了题目所使用的dockerfile。本题使用的是Ubuntu18。查看函数,此处调用了",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136030402",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
