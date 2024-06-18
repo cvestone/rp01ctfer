@@ -75,6 +75,15 @@
     ],
     "posts": [
         {
+            "Title": "6.17本周小结",
+            "Author": "ba1100n",
+            "Date": "2024-06-17",
+            "Content": "这周忙于各种课程结尾的事情（英语课程超多东西要搞要准备）和学校的一些手续，由于学校渗透课程缘故，完整地刷了下p […]",
+            "PostURL": "http://ba1100n.tech/after_meal/6-17%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "AuthorURL": "http://www.ba1100n.tech",
+            "Direction": ""
+        },
+        {
             "Title": "密码保护：打靶随记",
             "Author": "cvestone",
             "Date": "2024-06-16",
@@ -179,15 +188,6 @@
             "Date": "2024-05-12",
             "Content": "前言 很久没有pwn了，最近复现漏洞发现还是得回看一下，遇到很有意思的一题，这题不是一般的模版题，特别地，这是 […]",
             "PostURL": "http://ba1100n.tech/binary_security/get_started_3dsctf_2016%e9%a2%84%e6%9c%9f%e8%a7%a3%e5%92%8c%e9%9d%9e%e9%a2%84%e6%9c%9f%e8%a7%a3/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "从bzImage启动镜像到解密固件得到文件系统",
-            "Author": "ba1100n",
-            "Date": "2024-05-07",
-            "Content": "前言 就是为了学这个事情所以去学习了linux底层机制，包括CPU加电直到第一个main函数的过程 在知晓其机 […]",
-            "PostURL": "http://ba1100n.tech/iot_security/%e4%bb%8ebzimage%e5%90%af%e5%8a%a8%e9%95%9c%e5%83%8f%e5%88%b0%e8%a7%a3%e5%af%86%e5%9b%ba%e4%bb%b6%e5%be%97%e5%88%b0%e6%96%87%e4%bb%b6%e7%b3%bb%e7%bb%9f/",
             "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         },
