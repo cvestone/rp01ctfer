@@ -71,6 +71,14 @@
             "url": "https://dis4.cn",
             "rss": "https://dis4.cn/feed.xml",
             "direction":"web"
+        },
+        {
+            "name": "Yukon",
+            "description": "醉后不知天在水，满船清梦压星河",
+            "avatar": "",
+            "url": "https://yukon.icu",
+            "rss": "https://yukon.icu/atom.xml",
+            "direction":"pwn"
         }
     ]
 }
