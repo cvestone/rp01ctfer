@@ -83,6 +83,15 @@
     ],
     "posts": [
         {
+            "Title": "实战式打靶随记",
+            "Author": "cvestone",
+            "Date": "2024-07-08",
+            "Content": "方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ...",
+            "PostURL": "https://www.su-cvestone.cn/460/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
             "Title": "fuzzing原理浅析(上)：afl，afl++背后的变异算法",
             "Author": "ba1100n",
             "Date": "2024-07-08",
@@ -250,15 +259,6 @@
             "Date": "2024-02-27",
             "Content": "xnuca2020-babyV8",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136332456",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "*ctf 2019 oob",
-            "Author": "摸鱼的猫",
-            "Date": "2024-02-26",
-            "Content": "*ctf 2019 oob",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/136294799",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
