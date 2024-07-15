@@ -79,9 +79,26 @@
             "url": "https://yukon.icu",
             "rss": "https://yukon.icu/atom.xml",
             "direction": "pwn"
+        },
+        {
+            "name": "virus",
+            "description": "",
+            "avatar": "",
+            "url": "https://megachar0x01.github.io",
+            "rss": "https://megachar0x01.github.io/feed.xml",
+            "direction": "pwn"
         }
     ],
     "posts": [
+        {
+            "Title": "每周目标",
+            "Author": "cvestone",
+            "Date": "2024-07-15",
+            "Content": "20240715 [ ] php原生与框架的安全开发demo写完 [ ] 写一篇\"vscode+wordpress一键上传博客+o ...",
+            "PostURL": "https://www.su-cvestone.cn/482/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
         {
             "Title": "7.14本周小结",
             "Author": "ba1100n",
@@ -251,15 +268,6 @@
             "Content": "这周对vxworks的固件进行了逆向，可惜并没有找到符号表，也没有可以参照的代码，所以进行了逆向工程，大概逆向 […]",
             "PostURL": "http://ba1100n.tech/after_meal/6-10%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "hvv面试题总结归纳",
-            "Author": "cvestone",
-            "Date": "2024-05-23",
-            "Content": "蓝队 Top10漏洞篇 owasp top10(最新2021版)有哪些？ 官方报告 Broken Access Control 破 ...",
-            "PostURL": "https://www.su-cvestone.cn/412/",
-            "AuthorURL": "https://www.su-cvestone.cn/",
             "Direction": ""
         }
     ]
