@@ -83,6 +83,24 @@
     ],
     "posts": [
         {
+            "Title": "7.14本周小结",
+            "Author": "ba1100n",
+            "Date": "2024-07-14",
+            "Content": "学完boofuzz，这一基于生成算法的fuzzing 而紧接着又要开始对pwn下一阶段的学习了，本周重新开始了 […]",
+            "PostURL": "http://ba1100n.tech/after_meal/7-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "AuthorURL": "http://www.ba1100n.tech",
+            "Direction": ""
+        },
+        {
+            "Title": "ctfshow刷题笔记",
+            "Author": "Yukon",
+            "Date": "2024-07-14",
+            "Content": "堆利用pwn160-（持续更新中）pwn160Hint  : Heap_Overflow ~2.23的堆123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051void __cdecl __noreturn main(int a1){  int v1; // [esp+",
+            "PostURL": "https://yukon.icu/2024/07/15/snote2/",
+            "AuthorURL": "https://yukon.icu",
+            "Direction": ""
+        },
+        {
             "Title": "fuzzing原理探究(下)：boofuzz背后的生成算法",
             "Author": "ba1100n",
             "Date": "2024-07-11",
@@ -236,29 +254,11 @@
             "Direction": ""
         },
         {
-            "Title": "记一次UART串口调试实战",
-            "Author": "ba1100n",
-            "Date": "2024-06-02",
-            "Content": "前言 面对某固件，虽然没有加密，但binwalk是没有办法正常提取的，然后试了试网上的办法好像不太行，还没细究 […]",
-            "PostURL": "http://ba1100n.tech/iot_basic/%e8%ae%b0%e4%b8%80%e6%ac%a1uart%e4%b8%b2%e5%8f%a3%e8%b0%83%e8%af%95%e5%ae%9e%e6%88%98/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
             "Title": "hvv面试题总结归纳",
             "Author": "cvestone",
             "Date": "2024-05-23",
             "Content": "蓝队 Top10漏洞篇 owasp top10(最新2021版)有哪些？ 官方报告 Broken Access Control 破 ...",
             "PostURL": "https://www.su-cvestone.cn/412/",
-            "AuthorURL": "https://www.su-cvestone.cn/",
-            "Direction": ""
-        },
-        {
-            "Title": "密码保护：混音课程笔记",
-            "Author": "cvestone",
-            "Date": "2024-03-12",
-            "Content": "无法提供摘要。这是一篇受保护的文章。",
-            "PostURL": "https://www.su-cvestone.cn/308/",
             "AuthorURL": "https://www.su-cvestone.cn/",
             "Direction": ""
         }
