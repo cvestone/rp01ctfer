@@ -79,6 +79,14 @@
             "url": "https://yukon.icu",
             "rss": "https://yukon.icu/atom.xml",
             "direction":"pwn"
+        },
+        {
+            "name": "virus",
+            "description": "",
+            "avatar": "",
+            "url": "https://megachar0x01.github.io",
+            "rss": "https://megachar0x01.github.io/feed.xml",
+            "direction":"pwn"
         }
     ]
 }
