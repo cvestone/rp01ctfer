@@ -91,6 +91,15 @@
     ],
     "posts": [
         {
+            "Title": "web3-url-colearning-day2",
+            "Author": "antigone",
+            "Date": "2024-07-16",
+            "Content": "hw1:Find the ownership of an your favor NFT查询一下slides里展示的cyberbrokers吧ERC721有ownerOf方法可以通过tokenid查询owner的地址在etherscan上查询的合约地址可以调用ownerOf方法，然而cyberbrokers-meta这个地址却不能再尝试了一下发现那个0x89的合约地址同样",
+            "PostURL": "https://antigone4224.github.io/web3-url-colearning-day2",
+            "AuthorURL": "https://antigone4224.github.io/",
+            "Direction": ""
+        },
+        {
             "Title": "vscode+wordpress+oss一键上传文章方案",
             "Author": "cvestone",
             "Date": "2024-07-15",
@@ -115,15 +124,6 @@
             "Content": "预习了一下第一次的 slides,简单的介绍了一下web3://协议ERC-4804提出了使用RFC 2396 URI来表示一个以太坊消息调用，给予了我们一种直接访问以太坊区块链的方式，也就是web3 url，从此不再需要经过http://或者ipfs的代理。可以参考下面这张图（直接从slides里扒的链接，可能会没法加载= =）下面的标识是对应URI的RFC标准，上面的标识是对应了对",
             "PostURL": "https://antigone4224.github.io/web3-url-colearing-day1",
             "AuthorURL": "https://antigone4224.github.io/",
-            "Direction": ""
-        },
-        {
-            "Title": "test2",
-            "Author": "ba1100n",
-            "Date": "2024-07-15",
-            "Content": "hi hei hahaha sfsfsdf [x] 已完成 fsfsf 就这个biu ber 爽",
-            "PostURL": "http://ba1100n.tech/test/1/",
-            "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         },
         {
