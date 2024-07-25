@@ -91,6 +91,15 @@
     ],
     "posts": [
         {
+            "Title": "House_of_orange",
+            "Author": "Yukon",
+            "Date": "2024-07-24",
+            "Content": "House Of  Orange2.23见wkctf复现一文：https://yukon.icu/2024/07/18/wkctf/2.24新增检测以及绕过思路与2.23不同的点在于，2.24对于vtable的位置进行了约束，增加了一个检测函数：IO_validate_vtable123456789101112static inline const struct _IO_jump_t *IO_va",
+            "PostURL": "https://yukon.icu/2024/07/25/house_of_orange/",
+            "AuthorURL": "https://yukon.icu",
+            "Direction": ""
+        },
+        {
             "Title": "DASCTF2024复现",
             "Author": "Yukon",
             "Date": "2024-07-24",
@@ -259,15 +268,6 @@
             "Content": "那么，就来看看基于生成的boofuzz吧，虽然后面实现了持续生成的方案，但没有任何反馈调整变异机制，所以其实还 […]",
             "PostURL": "http://ba1100n.tech/binary_security/fuzzing%e5%8e%9f%e7%90%86%e6%8e%a2%e7%a9%b6%e4%b8%8b%ef%bc%9aboofuzz%e8%83%8c%e5%90%8e%e7%9a%84%e7%94%9f%e6%88%90%e7%ae%97%e6%b3%95/",
             "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "buuctf",
-            "Author": "cvestone",
-            "Date": "2024-07-10",
-            "Content": "Web [极客大挑战 2019]PHP 考察点：php原生反序列化bypass __wakeup() 先根据页面提示fuzz出网站 ...",
-            "PostURL": "https://www.su-cvestone.cn/465/",
-            "AuthorURL": "https://www.su-cvestone.cn/",
             "Direction": ""
         }
     ]
