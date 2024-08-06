@@ -91,6 +91,15 @@
     ],
     "posts": [
         {
+            "Title": "8.5本周小结",
+            "Author": "ba1100n",
+            "Date": "2024-08-05",
+            "Content": "这周其实效率很低，周一到周四上午的学习主要是arm pwn、mips pwn以及qiling fuzz，但比较 […]",
+            "PostURL": "http://ba1100n.tech/after_meal/8-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "AuthorURL": "http://www.ba1100n.tech",
+            "Direction": ""
+        },
+        {
             "Title": "密码保护：PTGA ctf-web培训xxe讲解",
             "Author": "cvestone",
             "Date": "2024-07-30",
@@ -259,15 +268,6 @@
             "Content": "easy_heaphouse of orangeida123456789101112131415161718192021222324252627unsigned __int64 add(){  unsigned int v0; // ebx  _DWORD size[7]; // [rsp+4h] [rbp-1Ch] BYREF  *\u0026size[1] = __readfsqword(0x28u);",
             "PostURL": "https://yukon.icu/2024/07/18/wkctf/",
             "AuthorURL": "https://yukon.icu",
-            "Direction": ""
-        },
-        {
-            "Title": "240705downunderctf Learning Process Record",
-            "Author": "cvestone",
-            "Date": "2024-07-17",
-            "Content": "web co2 【Description】 考察知识点 Descriptions 比赛时的临时笔记 识别出是个flask框架，审计 ...",
-            "PostURL": "https://www.su-cvestone.cn/492/",
-            "AuthorURL": "https://www.su-cvestone.cn/",
             "Direction": ""
         }
     ]
