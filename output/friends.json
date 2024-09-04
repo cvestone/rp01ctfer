@@ -104,7 +104,7 @@
             "Author": "ba1100n",
             "Date": "2024-08-31",
             "Content": "本周总结了一下上周的nepctf，学习到了一些之前没有机会了解的东西，比如ptrace，vxworks恢复，但 […]",
-            "PostURL": "http://ba1100n.tech/after_meal/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "PostURL": "http://ba1100n.tech/weekly_diary/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         },
@@ -140,7 +140,7 @@
             "Author": "ba1100n",
             "Date": "2024-08-26",
             "Content": "这周机器到货了以后，连上uart串口，发现机器的各个地址确实是写死的！！甚至是栈地址，居然都是固定的，ret2 […]",
-            "PostURL": "http://ba1100n.tech/after_meal/8-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "PostURL": "http://ba1100n.tech/weekly_diary/8-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         },
@@ -149,7 +149,7 @@
             "Author": "ba1100n",
             "Date": "2024-08-19",
             "Content": "周二回到学校了，静下心来看了几天那个栈溢出复现，用户态仿真因为是qemu-user带起来的，有很多特性不一样， […]",
-            "PostURL": "http://ba1100n.tech/after_meal/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "PostURL": "http://ba1100n.tech/weekly_diary/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         },
@@ -167,7 +167,7 @@
             "Author": "ba1100n",
             "Date": "2024-08-11",
             "Content": "这周还在家里，在市里图书馆学习，幸好现在图书馆允许用之前老早就安装好的桌子下的电源了·，感谢，但是能不能把狐臭 […]",
-            "PostURL": "http://ba1100n.tech/after_meal/8-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "PostURL": "http://ba1100n.tech/weekly_diary/8-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         },
@@ -221,7 +221,7 @@
             "Author": "ba1100n",
             "Date": "2024-08-05",
             "Content": "这周其实效率很低，周一到周四上午的学习主要是arm pwn、mips pwn以及qiling fuzz，但比较 […]",
-            "PostURL": "http://ba1100n.tech/after_meal/8-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "PostURL": "http://ba1100n.tech/weekly_diary/8-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         },
@@ -239,7 +239,7 @@
             "Author": "ba1100n",
             "Date": "2024-07-26",
             "Content": "这周的周一到周三主要是跟着Nop师傅去分析了几个固件，然后发现很多时候之所以我到今天都还没有cve编号，其实是 […]",
-            "PostURL": "http://ba1100n.tech/after_meal/7-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "PostURL": "http://ba1100n.tech/weekly_diary/7-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         },
