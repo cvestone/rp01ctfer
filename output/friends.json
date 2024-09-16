@@ -100,6 +100,15 @@
             "Direction": ""
         },
         {
+            "Title": "cve-2023-27021",
+            "Author": "Yukon",
+            "Date": "2024-09-14",
+            "Content": "cve-2023-27021搭建qemu环境https://blog.csdn.net/weixin_44458100/article/details/136042605网上找了好几篇，最终参考了这篇博客AARCH64的工具链安装准备：1sudo apt-get install gcc-aarch64-linux-gnu -y下载编译安装QEMU12wget https://download.qe",
+            "PostURL": "https://yukon.icu/2024/09/15/cve-2023-27021/",
+            "AuthorURL": "https://yukon.icu",
+            "Direction": ""
+        },
+        {
             "Title": "9.9本周小结",
             "Author": "ba1100n",
             "Date": "2024-09-09",
@@ -258,15 +267,6 @@
             "Date": "2024-07-26",
             "Content": "De1CTF weapon1234567891011unsigned __int64 menu(){  unsigned __int64 v1; // [rsp+8h] [rbp-8h]  v1 = __readfsqword(0x28u);  puts(\"1. create you weapon\");  puts(\"2. delete you weapon\");  puts(\"3. rename",
             "PostURL": "https://yukon.icu/2024/07/26/io_stdout_libc/",
-            "AuthorURL": "https://yukon.icu",
-            "Direction": ""
-        },
-        {
-            "Title": "bugku_awd_pwn",
-            "Author": "Yukon",
-            "Date": "2024-07-25",
-            "Content": "Bugku_AWD_PWNbugku的 “当前可公开信息”：bugku的awd会给我们一个ip，例如本次比赛我们队的ip是192-168-1-21.pvp4772.bugku.cn，其他人的ip是192-168-1-X.pvp4772.bugku.cn，需要我们自己写脚本发现账号密码：team1:206a75a313e0cded3610aa5e4exxxxxxtoken（用来使用api提交flag",
-            "PostURL": "https://yukon.icu/2024/07/26/awd_bugku1/",
             "AuthorURL": "https://yukon.icu",
             "Direction": ""
         }
