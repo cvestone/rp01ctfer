@@ -91,6 +91,24 @@
     ],
     "posts": [
         {
+            "Title": "10.14本周小结",
+            "Author": "ba1100n",
+            "Date": "2024-10-14",
+            "Content": "这周病了大半周，新冠还是那个新冠，真厉害，真毒辣 收尾了一些事情，其实就是提交一些个漏洞什么的 头还是晕，想不 […]",
+            "PostURL": "http://ba1100n.tech/weekly_diary/10-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "AuthorURL": "http://www.ba1100n.tech",
+            "Direction": ""
+        },
+        {
+            "Title": "安网杯复盘-awd",
+            "Author": "Yukon",
+            "Date": "2024-10-14",
+            "Content": "2c1bd9eed3688030ff4ca93c071a4450376bb599a9f818e227097808d67a98ffba0aae20129f6137c2a9709033068ebfe3726ee3719d3f57a48fd0825023f687b5ffa820fdc0defc3c6c95aa23bf062b17e309376db822d448f59a620d0995f584c7b5",
+            "PostURL": "https://yukon.icu/2024/10/15/awb/",
+            "AuthorURL": "https://yukon.icu",
+            "Direction": ""
+        },
+        {
             "Title": "10.7本周小结",
             "Author": "ba1100n",
             "Date": "2024-10-07",
@@ -208,15 +226,6 @@
             "Direction": ""
         },
         {
-            "Title": "8.19本周小结",
-            "Author": "ba1100n",
-            "Date": "2024-08-19",
-            "Content": "周二回到学校了，静下心来看了几天那个栈溢出复现，用户态仿真因为是qemu-user带起来的，有很多特性不一样， […]",
-            "PostURL": "http://ba1100n.tech/weekly_diary/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
             "Title": "PwnCollege",
             "Author": "cvestone",
             "Date": "2024-08-18",
@@ -258,15 +267,6 @@
             "Date": "2024-08-09",
             "Content": "本文是为了学习apple做的铺垫，两种利用手法的利用原理是基于ctfshow的pwn213和pwn214动调和一些师傅的博客总结得出，如有侵权联系删除House of kiwi利用条件能够触发__malloc_assert能够申请到_IO_file_sync 和 _IO_helper_jumps这两个位置并且修改。利用原理在函数sysmalloc中，有一个检查top chunk是否对其的代码片段：",
             "PostURL": "https://yukon.icu/2024/08/09/house_of_kiwi/",
-            "AuthorURL": "https://yukon.icu",
-            "Direction": ""
-        },
-        {
-            "Title": "堆-杂",
-            "Author": "Yukon",
-            "Date": "2024-08-09",
-            "Content": "bb2cd3915cb2779a5ff0f382ab08328858af39cfc75d69237ee2c5d43e061a3defb123903f0149e58a007374380ce1c57ffec623b675ac6f50d051c05d1daad2ddec5493a80375aa2cdd5523d19f500df7bfdecd5af5292e435a80e8dcc97269ca0530",
-            "PostURL": "https://yukon.icu/2024/08/09/%E5%A0%86-%E6%9D%82/",
             "AuthorURL": "https://yukon.icu",
             "Direction": ""
         }
