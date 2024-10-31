@@ -91,6 +91,15 @@
     ],
     "posts": [
         {
+            "Title": "密码保护：ref:ac6_vulns_batch",
+            "Author": "ba1100n",
+            "Date": "2024-10-30",
+            "Content": "无法提供摘要。这是一篇受保护的文章。",
+            "PostURL": "http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/refac6_vulns_batch/",
+            "AuthorURL": "http://www.ba1100n.tech",
+            "Direction": ""
+        },
+        {
             "Title": "10.28本周小结",
             "Author": "ba1100n",
             "Date": "2024-10-28",
@@ -186,15 +195,6 @@
             "Date": "2024-08-31",
             "Content": "本周总结了一下上周的nepctf，学习到了一些之前没有机会了解的东西，比如ptrace，vxworks恢复，但 […]",
             "PostURL": "http://ba1100n.tech/weekly_diary/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "从NepBox一题看ptrace相关机制",
-            "Author": "ba1100n",
-            "Date": "2024-08-31",
-            "Content": "前言 被ptrace吓住了，看不明白，前几天仔细看了一下，了解了一下父子进程相关机制 赛题 https://n […]",
-            "PostURL": "http://ba1100n.tech/binary_security/%e4%bb%8enepbox%e4%b8%80%e9%a2%98%e7%9c%8bptrace%e7%9b%b8%e5%85%b3%e6%9c%ba%e5%88%b6/",
             "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         },
