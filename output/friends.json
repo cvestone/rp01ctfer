@@ -100,6 +100,15 @@
             "Direction": ""
         },
         {
+            "Title": "Single Note - Ignite khi qualifying 2024",
+            "Author": "virus",
+            "Date": "2024-10-29",
+            "Content": "Purpose : Get The Flag Mitigations : Crash : Decompile : #!/usr/bin/python3 from pwn import * import struct # context.terminal = ['tmux','splitw','-h'] os.environ['XDG_CACHE_HOME'] = '/tmp/' context.l",
+            "PostURL": "https://megachar0x01.github.io/posts/Single_Note/",
+            "AuthorURL": "https://megachar0x01.github.io",
+            "Direction": ""
+        },
+        {
             "Title": "10.28本周小结",
             "Author": "ba1100n",
             "Date": "2024-10-28",
@@ -258,15 +267,6 @@
             "Date": "2024-07-20",
             "Content": "今天学习一下Ethfs安装Ethfs-clinpm install -g ethfs-cliethfs-cli upload -f \u003cdirectory|file\u003e -a \u003caddress\u003e -p \u003cprivate-key\u003e -r [rpc] -t [upload-type]创建Flat Directory 合约ethfs-cli create -p privkeychai",
             "PostURL": "https://antigone4224.github.io/web3-url-colearning-day6",
-            "AuthorURL": "https://antigone4224.github.io/",
-            "Direction": ""
-        },
-        {
-            "Title": "web3-url-colearning-day5",
-            "Author": "antigone",
-            "Date": "2024-07-19",
-            "Content": "在群组中发送地址，得到了1000测试ETH可以拿来在ETH Storage上传文件https://galileo.web3q.io/file.w3q/0x81fb5c383f192f7fa1f0788e1a06aed26ffac469/b_d42a32a060f284d3ffe3b4cf8cc08501.jpg上传了我的qq头像（成功的存在了galileo测试网上（",
-            "PostURL": "https://antigone4224.github.io/web3-url-colearning-day5",
             "AuthorURL": "https://antigone4224.github.io/",
             "Direction": ""
         }
