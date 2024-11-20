@@ -81,6 +81,14 @@
             "direction":"pwn"
         },
         {
+            "name": "水委",
+            "description": "这里是雨季，你那里阳光明媚吗",
+            "avatar": "",
+            "url": "https://arch3rn4r.github.io",
+            "rss": "https://arch3rn4r.github.io/atom.xml",
+            "direction":"pwn"
+        },
+        {
             "name": "virus",
             "description": "",
             "avatar": "",
