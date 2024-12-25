@@ -99,6 +99,15 @@
     ],
     "posts": [
         {
+            "Title": "upload-lab靶场(国光)",
+            "Author": "cvestone",
+            "Date": "2024-12-24",
+            "Content": "v1(前端校验bypass) 抓包监听，如果上传文件的时候还没有抓取到数据包，但是浏览器就提示文件类型不正确的话，那么这个多半就是 ...",
+            "PostURL": "https://www.su-cvestone.cn/584/",
+            "AuthorURL": "https://www.su-cvestone.cn/",
+            "Direction": ""
+        },
+        {
             "Title": "12.23本周小结",
             "Author": "ba1100n",
             "Date": "2024-12-22",
@@ -266,15 +275,6 @@
             "Date": "2024-09-21",
             "Content": "chroot介绍通常来说，提到chroot一般有两个含义，chroot(1)是/usr/bin/chroot,要有一定权限才能使用chroot, chroot(2)是glibc中的一个函数,属于系统调用chroot(1)chroot - run command or interactive shell with special root directory 一个命令行工具，可用于创建沙箱shell",
             "PostURL": "http://arch3rn4r.github.io/2024/09/21/linux%E6%B2%99%E7%AE%B1%E4%B9%8B%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E9%9A%94%E7%A6%BB/",
-            "AuthorURL": "https://arch3rn4r.github.io",
-            "Direction": ""
-        },
-        {
-            "Title": "python逆向",
-            "Author": "水委",
-            "Date": "2024-09-18",
-            "Content": "参照此文章编写https://rocky.github.io/blackhat-asia-2024-additional/all-notes-printPython 字节码的变化非常大，每个版本之间都有很大的区别。高级字节码的一个方面：许多源信息（如变量名称及其类型）都保存在字节码中。所以反编译回来的程序会和源代码非常像（简直一模一样）。但是来自源文本的注释不会显示在重建结果中，这是因为这些注释不",
-            "PostURL": "http://arch3rn4r.github.io/2024/09/18/python%E9%80%86%E5%90%91/",
             "AuthorURL": "https://arch3rn4r.github.io",
             "Direction": ""
         }
