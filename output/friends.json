@@ -99,6 +99,42 @@
     ],
     "posts": [
         {
+            "Title": "leetcode 1328. 破坏回文串",
+            "Author": "摸鱼的猫",
+            "Date": "2025-01-03",
+            "Content": "leetcode 1328. 破坏回文串。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/144911548",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "leetcode 1637. 两点之间不包含任何点的最宽垂直区域",
+            "Author": "摸鱼的猫",
+            "Date": "2025-01-03",
+            "Content": "leetcode 1637. 两点之间不包含任何点的最宽垂直区域。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/144911016",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "leetcode 624. 数组列表中的最大距离",
+            "Author": "摸鱼的猫",
+            "Date": "2025-01-03",
+            "Content": "leetcode 624. 数组列表中的最大距离。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/144910380",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "恶意软件开发1",
+            "Author": "水委",
+            "Date": "2025-01-03",
+            "Content": "前提目的是做一个恶意软件，实现基本恶意功能，当前版本专注于实现基本功能，只有基本界面和功能。那么一个恶意软件应当具有什么功能呢，下面主要研究的是怎么做，而不是防御和绕过检测。它将是一个纯粹的恶意软件。以下信息pc和安卓都有，只是将基于Android端开发。。。恶意功能破坏性数据损坏和篡改：文件覆盖、数据加密，恶意修改数据无法正常使用业务：ddos无限弹窗锁屏功能系统崩溃：占用CPU、内存资源、制造",
+            "PostURL": "http://arch3rn4r.github.io/2025/01/04/%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%911/",
+            "AuthorURL": "https://arch3rn4r.github.io",
+            "Direction": ""
+        },
+        {
             "Title": "leetcode 2658. 网格图中鱼的最大数目",
             "Author": "摸鱼的猫",
             "Date": "2025-01-02",
@@ -240,42 +276,6 @@
             "Content": "病了一个月以后，这几天复活了，天天晚上运动第二天都不怎么累还起得很早，神奇 这周被老师夸代码写的不错了哈哈，好 […]",
             "PostURL": "http://ba1100n.tech/weekly_diary/11-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "vulnhub_machines",
-            "Author": "cvestone",
-            "Date": "2024-11-05",
-            "Content": "方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ...",
-            "PostURL": "https://www.su-cvestone.cn/544/",
-            "AuthorURL": "https://www.su-cvestone.cn/",
-            "Direction": ""
-        },
-        {
-            "Title": "Single Note - Ignite khi qualifying 2024",
-            "Author": "virus",
-            "Date": "2024-10-29",
-            "Content": "Purpose : Get The Flag Mitigations : Crash : Decompile : #!/usr/bin/python3 from pwn import * import struct # context.terminal = ['tmux','splitw','-h'] os.environ['XDG_CACHE_HOME'] = '/tmp/' context.l",
-            "PostURL": "https://megachar0x01.github.io/posts/Single_Note/",
-            "AuthorURL": "https://megachar0x01.github.io",
-            "Direction": ""
-        },
-        {
-            "Title": "BlackHat Qualifier cockatoo",
-            "Author": "virus",
-            "Date": "2024-10-26",
-            "Content": "Purpose : Get The Flag #!/usr/bin/python3 from pwn import * import struct from ctypes import * import subprocess context.terminal = ['tmux','splitw'] os.environ['XDG_CACHE_HOME'] = '/tmp/' context.log",
-            "PostURL": "https://megachar0x01.github.io/posts/cockatoo_BlackHat_2024_Qualifier/",
-            "AuthorURL": "https://megachar0x01.github.io",
-            "Direction": ""
-        },
-        {
-            "Title": "(转载)浅析 Linux 程序的 Canary 机制",
-            "Author": "cvestone",
-            "Date": "2024-10-24",
-            "Content": "【转载原出处】 原作者：Kiprey 转载原因：对Canary机制的研究分析很透彻，很有参考价值，怕有天该好文章丢失找不到了。 一 ...",
-            "PostURL": "https://www.su-cvestone.cn/538/",
-            "AuthorURL": "https://www.su-cvestone.cn/",
             "Direction": ""
         }
     ]
