@@ -99,6 +99,24 @@
     ],
     "posts": [
         {
+            "Title": "leetcode LCR 127. 跳跃训练",
+            "Author": "摸鱼的猫",
+            "Date": "2025-01-06",
+            "Content": "leetcode LCR 127. 跳跃训练",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/144958506",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "leetcode 1871. 跳跃游戏 VII",
+            "Author": "摸鱼的猫",
+            "Date": "2025-01-06",
+            "Content": "leetcode 1871. 跳跃游戏 VII。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/144957490",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
             "Title": "leetcode 1328. 破坏回文串",
             "Author": "摸鱼的猫",
             "Date": "2025-01-03",
@@ -257,24 +275,6 @@
             "Date": "2024-11-16",
             "Content": "十一月也快过去大半了，接下来不可能整什么长期研究的大活了吧。。。好多事情要做起来了 这周就像是秋天收获的时候， […]",
             "PostURL": "http://ba1100n.tech/weekly_diary/11-16%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "ref:DCME all series RCEs(six one)",
-            "Author": "ba1100n",
-            "Date": "2024-11-12",
-            "Content": "download newest firmware This is the firmwares download […]",
-            "PostURL": "http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/dcme-all-series-rcessix-one/",
-            "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "11.9本周小结",
-            "Author": "ba1100n",
-            "Date": "2024-11-09",
-            "Content": "病了一个月以后，这几天复活了，天天晚上运动第二天都不怎么累还起得很早，神奇 这周被老师夸代码写的不错了哈哈，好 […]",
-            "PostURL": "http://ba1100n.tech/weekly_diary/11-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
             "Direction": ""
         }
