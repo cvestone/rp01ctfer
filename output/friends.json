@@ -99,6 +99,24 @@
     ],
     "posts": [
         {
+            "Title": "leetcode 2187. 完成旅途的最少时间",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-02",
+            "Content": "leetcode 2187. 完成旅途的最少时间。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145417095",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "leetcode 2856. 删除数对后的最小数组长度",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-02",
+            "Content": "leetcode 2856. 删除数对后的最小数组长度。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145417048",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
             "Title": "leetcode 2563. 统计公平数对的数目",
             "Author": "摸鱼的猫",
             "Date": "2025-02-01",
@@ -257,24 +275,6 @@
             "Date": "2025-01-22",
             "Content": "leetcode 300. 最长递增子序列。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145300940",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 1620. 网络信号最好的坐标",
-            "Author": "摸鱼的猫",
-            "Date": "2025-01-21",
-            "Content": "leetcode 1620. 网络信号最好的坐标。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145278336",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 479. 最大回文数乘积",
-            "Author": "摸鱼的猫",
-            "Date": "2025-01-21",
-            "Content": "leetcode 479. 最大回文数乘积。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145277677",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
