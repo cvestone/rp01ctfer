@@ -99,6 +99,33 @@
     ],
     "posts": [
         {
+            "Title": "leetcode 2594. 修车的最少时间",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-03",
+            "Content": "leetcode 2594. 修车的最少时间。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145428221",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "leetcode 1482. 制作 m 束花所需的最少天数",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-03",
+            "Content": "leetcode 1482. 制作 m 束花所需的最少天数。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145428164",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "leetcode 2226. 每个小孩最多能分到多少糖果",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-03",
+            "Content": "leetcode 2226. 每个小孩最多能分到多少糖果。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145428060",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
             "Title": "leetcode 2187. 完成旅途的最少时间",
             "Author": "摸鱼的猫",
             "Date": "2025-02-02",
@@ -248,33 +275,6 @@
             "Date": "2025-01-23",
             "Content": "leetcode 2090. 半径为 k 的子数组平均值。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145321331",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 2134. 最少交换次数来组合所有的 1 II",
-            "Author": "摸鱼的猫",
-            "Date": "2025-01-23",
-            "Content": "leetcode 2134. 最少交换次数来组合所有的 1 II。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145321271",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 712. 两个字符串的最小ASCII删除和",
-            "Author": "摸鱼的猫",
-            "Date": "2025-01-22",
-            "Content": "leetcode 712. 两个字符串的最小ASCII删除和。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145301045",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 300. 最长递增子序列",
-            "Author": "摸鱼的猫",
-            "Date": "2025-01-22",
-            "Content": "leetcode 300. 最长递增子序列。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145300940",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
