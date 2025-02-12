@@ -99,6 +99,24 @@
     ],
     "posts": [
         {
+            "Title": "leetcode 2466. 统计构造好字符串的方案数",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-11",
+            "Content": "leetcode 2466. 统计构造好字符串的方案数。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145567630",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "leetcode 3186. 施咒的最大总伤害",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-11",
+            "Content": "leetcode 3186. 施咒的最大总伤害。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145567369",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
             "Title": "leetcode 2104. 子数组范围和",
             "Author": "摸鱼的猫",
             "Date": "2025-02-10",
@@ -257,24 +275,6 @@
             "Date": "2025-02-01",
             "Content": "leetcode 2563. 统计公平数对的数目。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145414630",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 2080. 区间内查询数字的频率",
-            "Author": "摸鱼的猫",
-            "Date": "2025-02-01",
-            "Content": "leetcode 2080. 区间内查询数字的频率。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145414480",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 34. 在排序数组中查找元素的第一个和最后一个位置",
-            "Author": "摸鱼的猫",
-            "Date": "2025-01-31",
-            "Content": "leetcode 34. 在排序数组中查找元素的第一个和最后一个位置。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145406886",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
