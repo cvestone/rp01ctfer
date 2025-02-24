@@ -99,6 +99,15 @@
     ],
     "posts": [
         {
+            "Title": "2.23本周小结",
+            "Author": "ba1100n",
+            "Date": "2025-02-23",
+            "Content": "上周生病，没办法，这周修好了上周一发现的超严重bug，引入了两三个稳定机制，然后还想出了一个比较特殊的对于回归 […]",
+            "PostURL": "http://ba1100n.tech/weekly_diary/2-23%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
+            "AuthorURL": "http://www.ba1100n.tech",
+            "Direction": ""
+        },
+        {
             "Title": "leetcode 2826. 将三个组排序",
             "Author": "摸鱼的猫",
             "Date": "2025-02-20",
@@ -266,15 +275,6 @@
             "Date": "2025-02-14",
             "Content": "leetcode 2915. 和为目标值的最长子序列的长度",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145640739",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 347. 前 K 个高频元素",
-            "Author": "摸鱼的猫",
-            "Date": "2025-02-13",
-            "Content": "leetcode 347. 前 K 个高频元素。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145621953",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
