@@ -99,6 +99,33 @@
     ],
     "posts": [
         {
+            "Title": "leetcode 75. 颜色分类",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-25",
+            "Content": "leetcode 75. 颜色分类。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145841776",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "leetcode 169. 多数元素",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-25",
+            "Content": "leetcode 169. 多数元素。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145841697",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
+            "Title": "leetcode 136. 只出现一次的数字",
+            "Author": "摸鱼的猫",
+            "Date": "2025-02-25",
+            "Content": "leetcode 136. 只出现一次的数字。",
+            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145841601",
+            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
+            "Direction": ""
+        },
+        {
             "Title": "leetcode 207. 课程表",
             "Author": "摸鱼的猫",
             "Date": "2025-02-24",
@@ -249,33 +276,6 @@
             "Content": "这周主要是生了一场大病，上吐下泻的。。。 仍然没有重新开始正常的学习，而且还发现一个之前没发现但是挺严重的问题 […]",
             "PostURL": "http://ba1100n.tech/weekly_diary/2-17%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/",
             "AuthorURL": "http://www.ba1100n.tech",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 297. 二叉树的序列化与反序列化",
-            "Author": "摸鱼的猫",
-            "Date": "2025-02-14",
-            "Content": "leetcode 297. 二叉树的序列化与反序列化。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145641605",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 1594. 矩阵的最大非负积",
-            "Author": "摸鱼的猫",
-            "Date": "2025-02-14",
-            "Content": "leetcode 1594. 矩阵的最大非负积",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145641511",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 416. 分割等和子集",
-            "Author": "摸鱼的猫",
-            "Date": "2025-02-14",
-            "Content": "leetcode 416. 分割等和子集。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145641112",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
     ]
