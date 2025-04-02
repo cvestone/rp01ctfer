@@ -33,9 +33,9 @@
             "direction": "web"
         },
         {
-            "name": "摸鱼的猫",
-            "description": "酷爱摸鱼\u0026正在准备考研的ctfer",
-            "avatar": "",
+            "name": "命途行者",
+            "description": "pwn\u0026ai",
+            "avatar": "老树焕新叶，旧时开新篇",
             "url": "https://blog.csdn.net/qq_62172019/",
             "rss": "https://blog.csdn.net/qq_62172019/rss/list",
             "direction": "pwn"
@@ -109,7 +109,7 @@
         },
         {
             "Title": "leetcode 102. 二叉树的层序遍历",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-04",
             "Content": "leetcode 102. 二叉树的层序遍历。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/146025609",
@@ -118,7 +118,7 @@
         },
         {
             "Title": "leetcode 98. 验证二叉搜索树",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-04",
             "Content": "leetcode 98. 验证二叉搜索树。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/146025460",
@@ -127,7 +127,7 @@
         },
         {
             "Title": "leetcode 230. 二叉搜索树中第 K 小的元素",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-04",
             "Content": "leetcode 230. 二叉搜索树中第 K 小的元素。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/146025274",
@@ -136,7 +136,7 @@
         },
         {
             "Title": "leetcode 199. 二叉树的右视图",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-04",
             "Content": "leetcode 199. 二叉树的右视图。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/146025165",
@@ -145,7 +145,7 @@
         },
         {
             "Title": "leetcode 240. 搜索二维矩阵 II",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-03",
             "Content": "leetcode 240. 搜索二维矩阵 II。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145993919",
@@ -154,7 +154,7 @@
         },
         {
             "Title": "leetcode 138. 随机链表的复制",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-03",
             "Content": "leetcode 138. 随机链表的复制。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145993477",
@@ -163,7 +163,7 @@
         },
         {
             "Title": "leetcode 148. 排序链表",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-03",
             "Content": "leetcode 148. 排序链表。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145993447",
@@ -172,7 +172,7 @@
         },
         {
             "Title": "leetcode 23. 合并 K 个升序链表",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-03",
             "Content": "leetcode 23. 合并 K 个升序链表。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145993201",
@@ -181,7 +181,7 @@
         },
         {
             "Title": "leetcode 56. 合并区间",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-03",
             "Content": "leetcode 56. 合并区间。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145992891",
@@ -190,7 +190,7 @@
         },
         {
             "Title": "leetcode 42. 接雨水",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-03",
             "Content": "leetcode 42. 接雨水。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145987312",
@@ -199,7 +199,7 @@
         },
         {
             "Title": "leetcode 238. 除自身以外数组的乘积",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-02",
             "Content": "leetcode 238. 除自身以外数组的乘积。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145964643",
@@ -208,7 +208,7 @@
         },
         {
             "Title": "leetcode 48. 旋转图像",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-02",
             "Content": "leetcode 48. 旋转图像。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145964538",
@@ -217,7 +217,7 @@
         },
         {
             "Title": "leetcode 76. 最小覆盖子串",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-03-02",
             "Content": "leetcode 76. 最小覆盖子串。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145964325",
@@ -235,7 +235,7 @@
         },
         {
             "Title": "leetcode 128. 最长连续序列",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-02-28",
             "Content": "leetcode 128. 最长连续序列。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145925385",
@@ -244,7 +244,7 @@
         },
         {
             "Title": "leetcode 686. 重复叠加字符串匹配",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-02-28",
             "Content": "【代码】leetcode 686. 重复叠加字符串匹配。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145925038",
@@ -253,7 +253,7 @@
         },
         {
             "Title": "leetcode 189. 轮转数组",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-02-28",
             "Content": "leetcode 189. 轮转数组。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145924799",
@@ -262,7 +262,7 @@
         },
         {
             "Title": "leetcode 94. 二叉树的中序遍历",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-02-28",
             "Content": "leetcode 94. 二叉树的中序遍历。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145924699",
@@ -271,7 +271,7 @@
         },
         {
             "Title": "leetcode 239. 滑动窗口最大值",
-            "Author": "摸鱼的猫",
+            "Author": "命途行者",
             "Date": "2025-02-28",
             "Content": "leetcode 239. 滑动窗口最大值。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145924423",
