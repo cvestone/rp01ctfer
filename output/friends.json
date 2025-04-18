@@ -99,6 +99,15 @@
     ],
     "posts": [
         {
+            "Title": "Frida-Labs wp",
+            "Author": "水委",
+            "Date": "2025-04-17",
+            "Content": "0x1 同一个类中的静态方法分析基本结构如下12345678910111213public class MainActivity extends AppCompatActivity {    protected void onCreate(Bundle bundle) {            public void onClick(View view) {                if (",
+            "PostURL": "http://arch3rn4r.github.io/2025/04/17/Frida-Labs-wp/",
+            "AuthorURL": "https://arch3rn4r.github.io",
+            "Direction": ""
+        },
+        {
             "Title": "HTB_ctf",
             "Author": "cvestone",
             "Date": "2025-04-12",
@@ -266,15 +275,6 @@
             "Date": "2025-02-28",
             "Content": "leetcode 189. 轮转数组。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145924799",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 94. 二叉树的中序遍历",
-            "Author": "命途行者",
-            "Date": "2025-02-28",
-            "Content": "leetcode 94. 二叉树的中序遍历。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145924699",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
