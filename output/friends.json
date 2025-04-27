@@ -99,6 +99,15 @@
     ],
     "posts": [
         {
+            "Title": "ble_ctf wp",
+            "Author": "水委",
+            "Date": "2025-04-26",
+            "Content": "0x0 前期配置所需设备：蓝牙适配器，刷入了blectf的esp32,能进行蓝牙操作的设备（kali或者Ubuntu）启动蓝牙123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354┌──(kali㉿kali)-[~/Desktop]└─$ hciconfi",
+            "PostURL": "http://arch3rn4r.github.io/2025/04/26/%E4%BB%8Eble-ctf%E5%AD%A6%E8%93%9D%E7%89%99/",
+            "AuthorURL": "https://arch3rn4r.github.io",
+            "Direction": ""
+        },
+        {
             "Title": "基于LAN的intent触发",
             "Author": "水委",
             "Date": "2025-04-19",
@@ -266,15 +275,6 @@
             "Date": "2025-02-28",
             "Content": "【代码】leetcode 686. 重复叠加字符串匹配。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145925038",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 189. 轮转数组",
-            "Author": "命途行者",
-            "Date": "2025-02-28",
-            "Content": "leetcode 189. 轮转数组。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145924799",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
