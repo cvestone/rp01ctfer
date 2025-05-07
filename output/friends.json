@@ -99,6 +99,15 @@
     ],
     "posts": [
         {
+            "Title": "BitSiegeCTF2025-Watcher",
+            "Author": "水委",
+            "Date": "2025-05-06",
+            "Content": "前置分析题目描述题目下载链接:https://github.com/0xbinder/BitCTF-2025/blob/main/watcher.apk打开modsf，获取到它的基本信息和暴露的组件Package Name： com.example.watcherexported services：com.example.watcher.WatcherService查看WatcherService",
+            "PostURL": "http://arch3rn4r.github.io/2025/05/06/BitSiegeCTF2025-Watcher/",
+            "AuthorURL": "https://arch3rn4r.github.io",
+            "Direction": ""
+        },
+        {
             "Title": "ble_ctf wp",
             "Author": "水委",
             "Date": "2025-04-26",
@@ -266,15 +275,6 @@
             "Date": "2025-02-28",
             "Content": "【代码】leetcode 686. 重复叠加字符串匹配。",
             "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145925038",
-            "AuthorURL": "https://blog.csdn.net/qq_62172019/",
-            "Direction": ""
-        },
-        {
-            "Title": "leetcode 189. 轮转数组",
-            "Author": "命途行者",
-            "Date": "2025-02-28",
-            "Content": "leetcode 189. 轮转数组。",
-            "PostURL": "https://blog.csdn.net/qq_62172019/article/details/145924799",
             "AuthorURL": "https://blog.csdn.net/qq_62172019/",
             "Direction": ""
         }
